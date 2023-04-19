@@ -1,0 +1,9 @@
+    /*
+        implment linked list 
+        implment node data 
+        nodes 
+        nodes pointing stuff 
+        implment stack:
+        i implment pop
+        i implment push
+     */
